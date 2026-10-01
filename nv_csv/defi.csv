@@ -1,0 +1,9 @@
+descriptif,date_debut,date_fin,type_defi,obj_type,obj_val,capacite_max
+5 km en moins de 30 minutes,2026-04-01,2026-04-30,individuel,vitesse,30,
+Cours ton premier 10 km,2026-04-01,2026-05-01,individuel,distance,10,
+Dénivelé 500m en trail,2026-04-10,2026-05-10,individuel,denivele,500,
+Marathon complet 42.195 km,2026-06-01,2026-06-30,individuel,distance,42,
+1000 km cumulés à vélo,2026-04-01,2026-04-30,collectif,distance,1000,20
+2000m de dénivelé cumulé,2026-05-01,2026-05-31,collectif,denivele,2000,15
+Défi natation 5000m cumulés,2026-06-01,2026-06-30,collectif,distance,5000,10
+100km en course à pied,2026-05-01,2026-05-31,collectif,distance,100,30
