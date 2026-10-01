@@ -1,5 +1,3 @@
-# run together groupe 10 giordanino silvestre
-
 ## Contenu des fichiers :
 
 ### Dossier CSV
